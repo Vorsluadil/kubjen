@@ -1,0 +1,10 @@
+{"asctime": "2024-10-24 11:52:42,605", "levelname": "INFO", "message": "Received request", "request_id": "c570b3ce871df1d008d2ed12509acb6f", "source": null, "destination": null}
+{"asctime": "2024-10-24 11:52:42,606", "levelname": "INFO", "message": "Forwarding request", "request_id": "c570b3ce871df1d008d2ed12509acb6f", "source": "http://service1:5001/forward", "destination": "http://service2:5002/"}
+{"asctime": "2024-10-25 00:23:23,970", "levelname": "INFO", "message": "Received request", "request_id": "3ef6718749aad0820cdbf00205551c55", "source": null, "destination": null}
+{"asctime": "2024-10-25 00:23:23,971", "levelname": "INFO", "message": "Forwarding request", "request_id": "3ef6718749aad0820cdbf00205551c55", "source": "http://service1:5001/forward", "destination": "http://service2:5002/"}
+{"asctime": "2024-10-25 00:28:33,940", "levelname": "INFO", "message": "Received request", "request_id": "f9587baff99637e0edd70c19550d75de", "source": null, "destination": null}
+{"asctime": "2024-10-25 00:28:33,941", "levelname": "INFO", "message": "Forwarding request", "request_id": "f9587baff99637e0edd70c19550d75de", "source": "http://service1:5001/forward", "destination": "http://service2:5002/"}
+{"asctime": "2024-10-25 00:28:56,573", "levelname": "INFO", "message": "Received request", "request_id": "dc11200e6a3bba9863fc63de59b242f4", "source": null, "destination": null}
+{"asctime": "2024-10-25 00:28:56,574", "levelname": "INFO", "message": "Forwarding request", "request_id": "dc11200e6a3bba9863fc63de59b242f4", "source": "http://service1:5001/forward", "destination": "http://service2:5002/"}
+{"asctime": "2024-10-25 00:28:57,593", "levelname": "INFO", "message": "Received request", "request_id": "174e440b94601205385985ef57ab9bd2", "source": null, "destination": null}
+{"asctime": "2024-10-25 00:28:57,594", "levelname": "INFO", "message": "Forwarding request", "request_id": "174e440b94601205385985ef57ab9bd2", "source": "http://service1:5001/forward", "destination": "http://service2:5002/"}

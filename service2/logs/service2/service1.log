@@ -1,0 +1,1 @@
+{"asctime": "2024-10-25 00:23:23,977", "levelname": "INFO", "message": "Received request", "request_id": "3ef6718749aad0820cdbf00205551c55", "source": "http://service1:5001/forward", "destination": null}

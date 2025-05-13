@@ -1,0 +1,4 @@
+{"asctime": "2024-10-24 11:52:42,610", "levelname": "INFO", "message": "Received request", "request_id": "c570b3ce871df1d008d2ed12509acb6f", "source": "http://service1:5001/forward", "destination": null}
+{"asctime": "2024-10-25 00:28:33,945", "levelname": "INFO", "message": "Received request", "request_id": "f9587baff99637e0edd70c19550d75de", "source": "http://service1:5001/forward", "destination": null}
+{"asctime": "2024-10-25 00:28:56,576", "levelname": "INFO", "message": "Received request", "request_id": "dc11200e6a3bba9863fc63de59b242f4", "source": "http://service1:5001/forward", "destination": null}
+{"asctime": "2024-10-25 00:28:57,596", "levelname": "INFO", "message": "Received request", "request_id": "174e440b94601205385985ef57ab9bd2", "source": "http://service1:5001/forward", "destination": null}
